@@ -10,7 +10,7 @@ It runs on container instances and starts containers on behalf of Amazon ECS.
 
 ## Usage
 
-The best source of information on running this software is the [Amazon ECS documentation](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html).
+The best source of information about running this software is the [Amazon ECS documentation](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html).
 
 ### On the Amazon Linux AMI
 
